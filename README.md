@@ -101,7 +101,8 @@ int main() {
 ```
 ## OUTPUT:
 ### OUTPUT: Simulating Caesar Cipher
-![Screenshot 2024-09-05 083315](https://github.com/user-attachments/assets/ebdb5991-9843-4fa1-a607-a0f3e4756f53)
+![Screenshot 2024-10-07 090648](https://github.com/user-attachments/assets/1beab8d1-76db-4d01-81e0-f57d62837dcd)
+
 
 ## RESULT:
 The program is executed successfully
@@ -342,11 +343,11 @@ int main() {
     char str[SIZE], key[SIZE];
 
     // Key to be used
-    strcpy(key, "SAVEETHA");
+    strcpy(key, "KAMAL");
     printf("Key text: %s\n", key);
 
     // Plaintext to be encrypted
-    strcpy(str, "KAMESH");
+    strcpy(str, "KAMALESH");
     printf("Plain text: %s\n", str);
 
     // Encrypt using Playfair Cipher
@@ -363,7 +364,8 @@ int main() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-05 084022](https://github.com/user-attachments/assets/c8ad4c55-5dd2-4443-be34-ac4bf4f81a8a)
+![Screenshot 2024-10-07 091124](https://github.com/user-attachments/assets/7763872c-0e4d-4b93-a8dc-9cdab1918363)
+
 
 
 ## RESULT:
@@ -501,7 +503,7 @@ int main() {
 ## OUTPUT:
 ### Simulating Hill Cipher:
 
-![Screenshot 2024-09-05 084930](https://github.com/user-attachments/assets/5f12c69f-ec13-4871-b34d-d62e116db552)
+![Screenshot 2024-10-07 091409](https://github.com/user-attachments/assets/94886562-8f0c-4b47-8bde-ffa763404a0f)
 
 
 
@@ -617,7 +619,8 @@ void decipher() {
 ```
 
 ## OUTPUT:
-![Screenshot 2024-09-05 085228](https://github.com/user-attachments/assets/d962b01e-8083-4d49-aa75-167c434362a4)
+![Screenshot 2024-10-07 091831](https://github.com/user-attachments/assets/62e77f90-fe27-40d7-b6d3-86c244547599)
+
 
 
 ## RESULT:
@@ -713,7 +716,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-10-07 090024](https://github.com/user-attachments/assets/b9ffc83d-5e83-4524-b181-3d7c02d79b55)
+![Screenshot 2024-10-07 092013](https://github.com/user-attachments/assets/8b5d144a-a1e3-4f17-bd1c-e9f663efd207)
+
 
 
 ## RESULT:
